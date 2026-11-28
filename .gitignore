@@ -1,0 +1,13 @@
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ビルド成果物（配布用フォルダとアーカイブ）
+dist/
+*.zip
+
+# ローカル作業ファイル
+*.local.*
+node_modules/
