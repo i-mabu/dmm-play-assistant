@@ -8,7 +8,7 @@ node tools\check.js
 if errorlevel 1 exit /b 1
 
 echo テストを実行します...
-node --test tests\
+node --test
 if errorlevel 1 exit /b 1
 
 echo パッケージを作成します...

@@ -8,7 +8,7 @@ echo "構文チェックを実行します..."
 node tools/check.js
 
 echo "テストを実行します..."
-node --test tests/
+node --test
 
 echo "パッケージを作成します..."
 node tools/package.js

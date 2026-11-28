@@ -1,1 +1,1 @@
-{"description":"開いている1つのプレイページだけを対象にプレイを自動化する Chrome 拡張機能（Manifest V3）","engines":{"node":">=18"},"name":"dmm-play-assistant","private":true,"scripts":{"build":"node tools/package.js","check":"node tools/check.js","test":"node --test tests/"},"version":"1.0.0"}
+{"description":"開いている1つのプレイページだけを対象にプレイを自動化する Chrome 拡張機能（Manifest V3）","engines":{"node":">=18"},"name":"dmm-play-assistant","private":true,"scripts":{"build":"node tools/package.js","check":"node tools/check.js","test":"node --test"},"version":"1.0.0"}
